@@ -123,7 +123,7 @@ const App: React.FC = () => {
             <div className="flex-1 text-white">
               <div className={`${isVisible.hero ? 'animate-fadeInUp' : 'opacity-0'}`}>
                 <h1 className="text-4xl lg:text-6xl font-bold mb-6">
-                  Gupta
+                  Yogita Gupta
                   <span className="block text-2xl lg:text-3xl font-normal text-blue-200">
                     CA Finalist
                   </span>
