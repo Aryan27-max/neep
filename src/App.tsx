@@ -71,7 +71,7 @@ const App: React.FC = () => {
       <nav className="fixed top-0 left-0 right-0 bg-white/95 backdrop-blur-sm shadow-sm z-50">
         <div className="max-w-6xl mx-auto px-4">
           <div className="flex justify-between items-center h-16">
-            <div className="text-xl font-bold text-gray-800">Gupta (CA)</div>
+            <div className="text-xl font-bold text-gray-800"> Yogita Gupta </div>
             
             {/* Desktop Menu */}
             <div className="hidden md:flex space-x-8">
@@ -376,7 +376,7 @@ const App: React.FC = () => {
             </div>
           </div>
           <div className="border-t border-gray-700 pt-8 text-gray-400">
-            <p>&copy; 2024 Gupta (CA Finalist). Professional Portfolio.</p>
+            <p>&copy; 2024 Yogita Gupta (CA Finalist)</p>
           </div>
         </div>
       </footer>
